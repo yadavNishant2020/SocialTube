@@ -1,2 +1,2 @@
 # SocialVibe
-Welcome to our platform: where you can stream videos and tweet your thoughts simultaneously. Experience the best of both worlds with seamless integration. Join the conversation today!
+Explore my advanced backend project built with Node.js, Express.js, MongoDB, and more. Featuring comprehensive features like user authentication, video uploading, likes, comments, and subscriptions. Backed by industry-standard practices including JWT and bcrypt encryption.
