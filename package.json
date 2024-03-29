@@ -2,14 +2,20 @@
   "name": "socialvibe",
   "version": "1.0.0",
   "description": "Welcome to our platform: where you can stream videos and tweet your thoughts simultaneously. Experience the best of both worlds with seamless integration. Join the conversation today!",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.0",
     "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4"
   }
 }
