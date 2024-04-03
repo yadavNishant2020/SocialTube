@@ -1,1 +1,1 @@
-export const DB_NAME = "SocialVibe"
+export const DB_NAME = "NISH";
